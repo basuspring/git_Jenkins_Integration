@@ -7,6 +7,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello this is for demo for our git-jenkins integrations");
+System.out.println("hello");
 		
 
 	}
